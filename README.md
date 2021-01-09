@@ -18,10 +18,12 @@ In the refactored code, we were able to calculate the different metrics for ever
 
 ### 2017 Stocks Analysis Summary
 The 2017 stock analysis is as follows.
+
 ![2017 Stocks Analysis](https://github.com/dkatragadda/stock-analysis/blob/main/Resources/2017%20Stock%20Analysis%20snapshot.png)
 
 ### 2018 Stocks Analysis Summary
 The 2018 stock analysis is as follows.
+
 ![2018 Stocks Analysis](https://github.com/dkatragadda/stock-analysis/blob/main/Resources/2018%20Stock%20Analysis%20snapshot.png)
 
 ### Refactored code runtimes
