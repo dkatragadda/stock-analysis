@@ -13,14 +13,23 @@ We were provided with an excel dataset with stock information across 2017 and 20
 ## Results
 In the refactored code, we were able to calculate the different metrics for every stock in the dataset in a single for loop and stored the outputs in arrays. Once the analysis was completed, we used a single for loop to output the results contained in the arrays on the worksheet "All Stocks Analysis" followed by formatting to make the output readable. A summary of the refactored code is shown below. 
 
+### Refactored code snapshot
 ![Refactored code snapshot](https://github.com/dkatragadda/stock-analysis/blob/main/Resources/Refactored%20code.png)
 
+### 2017 Stocks Analysis Summary
+The 2017 stock analysis is as follows.
+![2017 Stocks Analysis](https://github.com/dkatragadda/stock-analysis/blob/main/Resources/2017%20Stock%20Analysis%20snapshot.png)
+
+### 2018 Stocks Analysis Summary
+The 2018 stock analysis is as follows.
+![2018 Stocks Analysis](https://github.com/dkatragadda/stock-analysis/blob/main/Resources/2018%20Stock%20Analysis%20snapshot.png)
+
+### Refactored code runtimes
 The refactored code ran in about 1/7th of the time it took to run the original code. The original code ran in ~1 second and the refactored code ran in ~0.14 seconds. 
 
 ![Code run time for 2017 data](https://github.com/dkatragadda/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
 ![Code run time for 2018 data](https://github.com/dkatragadda/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
-
 
 ## Summary
 
